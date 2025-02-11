@@ -23,11 +23,11 @@ public class ArmstrongNumber {
 
         if (n == res) {
 
-            System.out.println("Armstrong number");
+            System.out.println("Given number is Armstrong number");
 
         } else {
 
-            System.out.println("Not an Armstrong number");
+            System.out.println("Given number Not an Armstrong number");
 
         }
 
